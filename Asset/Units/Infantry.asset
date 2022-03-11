@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6476f53f33b428d47bd1f8539b45f5d4, type: 3}
+  m_Name: Infantry
+  m_EditorClassIdentifier: 
+  isPlayerUnit: 0
+  Type: 0
+  Name: TNI
+  HumanPrefab: {fileID: 5255322337820892946, guid: 9b8108a66ac3e2d48be1aceb78b76e80,
+    type: 3}
+  MachinePrefab: {fileID: 7841761674302766208, guid: ce887252eb1b78b4ab73faf05772ef15,
+    type: 3}
+  cost: 10
+  attack: 5
+  health: 25
+  armor: 10
